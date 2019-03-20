@@ -1,5 +1,5 @@
 # Automation Behaviour driven development framework
----------------------------
+
 To clone this repository use:  
 git clone https://github.com/pradipgit/auto_bdd_framework.git
 
